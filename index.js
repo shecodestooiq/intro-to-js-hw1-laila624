@@ -14,7 +14,7 @@ console.log(typeof year);
 
 //Task 3 :
 let greet = 'Hello ';
-let name ='laila ';
+let name =' laila ';
 
-console.log(greet + 'my name is laila ' + name + ' bye ' );
+console.log(greet + 'my name is laila ' + name + 'bye ' );
 
